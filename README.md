@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! My name is Bruno Tomasso from Montevideo, Uruguay 👋
 
 <!--
 **brunasso/brunasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
